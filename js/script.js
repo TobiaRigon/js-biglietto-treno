@@ -5,7 +5,6 @@ const distanza = parseInt(prompt("Km da percorrere")) ;
 // chiedi età
 const eta = parseInt(prompt("età")) ;
 
-console.log(eta);
 // calcola tariffa base
 const prezzoKm = 0.21 ;
 let tariffaFinale = "";
